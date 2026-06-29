@@ -22,3 +22,13 @@ Introduce the transformation point. "But here's what I discovered..."
 Position the product as the bridge.
 
 ## The Flow
+
+## How to Use
+
+Before presenting any offer, map out:
+1. What does the prospect currently believe about their problem?
+2. What do they believe about available solutions?
+3. What do they believe about their ability to solve it?
+4. What would they need to believe to buy?
+
+Then create content that shifts each belief in sequence. **Never jump to the solution before the problem is fully felt.**
