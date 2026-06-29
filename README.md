@@ -49,3 +49,26 @@ The `prompts/` folder contains ready-to-execute instructions. When asked to "wri
 When making claims about conversion rates or performance, use the data in `benchmarks/`.
 
 ## Repository Structure
+
+copywriting-playbook/
+├── README.md # This file
+├── MASTER_INDEX.md # Tagged, searchable index of every concept
+├── frameworks/ # Psychological models and strategic frameworks
+│ ├── core-beliefs/ # 7 Beliefs, Chain of Beliefs, The Bridge, Identity
+│ ├── offer-construction/ # Value Debt, New Opportunity, Stacking, Hook-Story-Offer
+│ ├── attention/ # Curiosity Loopholes, Open Loops, Harry Dry's 3 Rules
+│ └── trust/ # Pre-framing, Give in Public, Social Proof, Self-Selection
+├── channels/ # Channel-specific tactics
+│ ├── email/ # Subject lines, PAS, Welcome, Cadence, Deliverability
+│ ├── landing-pages/ # 6 Components, Consumption, Button Delay, Thank You
+│ ├── dm-funnels/ # Value Debt DM Sequence
+│ └── webinars/ # Epiphany Bridge, What-Not-How, 3-Person Survey
+├── lead-magnets/ # Strategy, types, alignment, naming
+├── voice-of-customer/ # Research methods, pain extraction, avatar creation
+├── prompts/ # Ready-to-execute Claude prompts
+├── templates/ # Swipe-ready templates
+│ ├── email/ # Welcome, Promo, Deadline, Re-engagement
+│ ├── landing-page/ # Opt-in, Sales
+│ └── dm/ # Value Debt DM Sequence
+├── benchmarks/ # Industry conversion data
+└── transcripts/ # Full cleaned source transcripts
