@@ -61,3 +61,29 @@ Most local sites have a homepage, an about/contact page, and maybe one service p
 
 3. **Bulk Content Production — The 8-Pass Humanization System**
    Generates content in bulk (e.g
+      Generates content in bulk (e.g., 18 pages with videos in ~70 minutes) using 8 passes:
+   1. Research & outline (crawls Reddit, local forums, competitor content for a locally-relevant outline + FAQ + AI-Overview-target snippet)
+   2. Iterative section writing (each H2 written separately with slightly varied tone, mimicking human writing)
+   3. Combination & tonal review pass
+   4. Burst analysis (varies sentence length/word counts to remove predictable AI patterns)
+   5. "Perplexity injection" (swaps predictable phrasing for less common, human-sounding equivalents)
+   6. Conversational bookending (rewrites opening/closing lines in a distinctly opinionated, human voice — critical for both readers and AI-content detectors)
+   7. Conversion optimization (adds localized CTAs, phone numbers, reasons to call this specific company)
+   8. Final quality pass (transitions, factual accuracy, CTA strength)
+
+4. **Schema Markup Generation:** auto-generates Organization, Video, Article, and FAQ schema for every page.
+5. **Image Generation:** produces the specified number of images per page.
+6. **Video Production & Upload:** writes a script, renders video, uploads to the client's YouTube channel.
+7. **WordPress Deployment:** publishes the full post (content, images, video embed, schema) directly, scoring Grade A / 100% on performance checks.
+
+### Expansion
+The same tool can generate individual location pages to push 4th-place rankings into the top 3.
+
+## The Key Takeaway
+
+Give Google and AI models exactly what they want: **perfect entity consistency** between your GBP and a hyper-local, mirror-image website. Understanding and executing this system puts you ahead of the vast majority of agencies still doing generic local SEO.
+
+## Related Frameworks
+- E-E-A-T Framework (`content-creation/eeat-framework.md`)
+- Building an SEO Content Skill in Claude (`claude-skills/building-an-seo-content-skill.md`)
+- Topical Authority (`topical-authority-and-links/topical-authority.md`)
