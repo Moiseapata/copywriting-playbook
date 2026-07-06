@@ -14,6 +14,12 @@ A structured knowledge base of copywriting frameworks, templates, benchmarks, an
 - **Tyson 4D** — PASO framework, email writing process, client getting
 - **Neville Medhora** — Copywriting as idea transfer, AI's role
 - **Peep Laja** — Brand differentiation, conversion research
+- **Matt Diggity (Kenyon Digital)** — How search works, keyword sweet spots, content workflow, E-E-A-T, topical authority, link building
+- **Tim Cameron-Kitchen (Exposure Ninja)** — 2026 award-nominated strategies, GEO, AI search tracking, psychographic personas
+- **Neil Patel** — Search Everywhere Optimization, platform decision codes, RICE prioritization
+- **Semrush** — Keyword Magic Tool, gap analysis, clustering workflow
+- **HubSpot (Jamal)** — Blog post structure, headline formula, SEO writing process
+- **SEO Agency Owner / AI Developer** — Local SEO entity system, Core 30 structure, Claude Code AI agent pipeline
 
 ## How Claude Should Use This Repo
 
