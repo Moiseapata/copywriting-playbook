@@ -170,3 +170,40 @@
 - `benchmarks/email.md`
 - `benchmarks/landing-pages.md`
 - `benchmarks/webinars.md`
+
+## SEO & AI Search
+#seo #ai-search #geo #search-everywhere-optimization #local-seo #entity-consistency
+
+### Fundamentals
+- How Search Works (Crawling, Indexing, Ranking) → `seo/fundamentals/how-search-works.md`
+- Three Realities Before Starting SEO → `seo/fundamentals/three-realities-before-starting.md`
+- Search Intent Types (4 types, mixed intent, long-tail) → `seo/fundamentals/search-intent-types.md`
+
+### Keyword Research
+- Keyword Sweet Spot Framework (4 filters, bottom-up plan) → `seo/keyword-research/keyword-sweet-spot-framework.md`
+- Semrush 5-Step Method (Keyword Magic → Gap → Cluster → Brief) → `seo/keyword-research/semrush-5-step-method.md`
+
+### Content Creation
+- Content Creation Workflow (4 phases: Research → Structure → Write → Optimize) → `seo/content-creation/content-creation-workflow.md`
+- E-E-A-T Framework (Experience, Expertise, Authoritativeness, Trust) → `seo/content-creation/eeat-framework.md`
+- On-Page SEO Checklist (titles, headers, URLs, meta, images, internal links) → `seo/content-creation/on-page-seo-checklist.md`
+- SEO Blog Post Structure (HubSpot method, 6 steps) → `seo/content-creation/seo-blog-post-structure.md`
+
+### Topical Authority & Links
+- Topical Authority & Content Clusters (pillar-cluster model, internal linking) → `seo/topical-authority-and-links/topical-authority.md`
+- Link Building Tactics (journalist queries, linkable assets, beginner sequencing) → `seo/topical-authority-and-links/link-building-tactics.md`
+- Local SEO Entity System — The "Core 30" (GBP audit, gap analysis, AI agent pipeline) → `seo/topical-authority-and-links/local-seo-entity-system.md`
+
+### AI Search & GEO
+- Generative Engine Optimization (GEO) (AI Overviews, Perplexity, digital PR) → `seo/ai-search-geo/generative-engine-optimization.md`
+- Search Everywhere Optimization (constellation journey, RICE framework, validation) → `seo/ai-search-geo/search-everywhere-optimization.md`
+- Split SEO Strategy & Tracking AI Visibility (mention gaps, AI trackers) → `seo/ai-search-geo/ai-search-tracking.md`
+
+### Strategy 2026
+- Award-Winning Strategies 2026 (5 strategies, real case studies, results) → `seo/strategy-2026/award-winning-strategies-2026.md`
+
+### Claude Skills
+- Building a Claude Skill for SEO Content (3 foundational documents, step-by-step setup) → `seo/claude-skills/building-an-seo-content-skill.md`
+
+### Benchmarks
+- SEO Benchmarks (traffic data, local SEO before/after, AI adoption stats) → `seo/benchmarks/seo-benchmarks.md`
