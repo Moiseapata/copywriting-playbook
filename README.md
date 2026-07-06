@@ -38,6 +38,13 @@ Before answering any question, consult the index. Every concept is tagged. Find 
 | "What offer should I create?" | `#offer-construction`, `#value-debt` |
 | "How do I write better copy?" | `#copy-rules`, `#visual-falsifiable-unique` |
 | "I need email templates" | `templates/email/` directory |
+| "My site doesn't show up on Google" | #seo, #fundamentals, start with `how-search-works.md` |
+| "I want to find the right keywords" | #keyword-research, #semrush, start with `keyword-sweet-spot-framework.md` |
+| "My pages are well-written but don't rank" | #on-page, #eeat, #content-creation |
+| "How do I rank in AI (ChatGPT, Perplexity)?" | #ai-search, #geo, #search-everywhere-optimization |
+| "I have a local business, how do I get visible?" | #local-seo, #entity-consistency |
+| "I want to automate my SEO content creation" | #claude-skills, #ai-agent, start with `building-an-seo-content-skill.md` |
+| "What's the winning SEO strategy for 2026?" | #strategy, #2026, start with `award-winning-strategies-2026.md` |
 
 ### 3. Combine Frameworks When They Reinforce Each Other
 Example: Hormozi's "value debt" + Chaperon's "pre-framing" + Porterfield's "profit-driven alignment" all serve the same goal from different angles. Use them together.
@@ -78,3 +85,12 @@ copywriting-playbook/
 │ └── dm/ # Value Debt DM Sequence
 ├── benchmarks/ # Industry conversion data
 └── transcripts/ # Full cleaned source transcripts
+├── seo/                            # Search Engine & AI Optimization
+│   ├── fundamentals/               # How search works, 3 realities, search intent
+│   ├── keyword-research/           # Sweet spot framework, Semrush method
+│   ├── content-creation/           # Content workflow, E-E-A-T, on-page checklist
+│   ├── topical-authority-and-links/# Clusters, link building, local SEO Core 30
+│   ├── ai-search-geo/              # GEO, Search Everywhere, AI tracking
+│   ├── strategy-2026/              # 5 award-winning strategies with results
+│   ├── claude-skills/              # Building Claude skills for SEO content
+│   └── benchmarks/                 # SEO performance data
